@@ -1,0 +1,6 @@
+{
+  "name": "ParsReader - مطالعه هوشمند اسناد",
+  "description": "برنامه جامع مطالعه فایل‌های PDF، Word، تصاویر و متون با پشتیبانی پیشرفته از جستجوی هوشمند فارسی و عربی و انتخاب دقیق متن با کنترلگرهای هوشمند کرسر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
